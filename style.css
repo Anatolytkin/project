@@ -1,6 +1,4 @@
 body {
-    /*background: #FFF;*/
-    /*background-image: url(flag.jpg);*/
     color: #000;
     font-family: Arial, sans-serif;
     font-size: 14px;
@@ -114,7 +112,7 @@ body {
 
 .main {
     display: flex;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     justify-content: center;
 }
 
